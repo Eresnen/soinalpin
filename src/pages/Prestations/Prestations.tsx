@@ -54,7 +54,7 @@ const styles = {
     paddingTop: '100px',
     paddingBottom: '50px',
     maxWidth: '1200px',
-     minHeight: '100vh'
+    minHeight: '100vh'
   },
   pageTitle: {
     fontSize: '2.5rem',
